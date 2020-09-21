@@ -1,0 +1,18 @@
+#styles.css
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #FFF4FA;
+  }
+
+  .background-text-box{
+  /*orange */
+    background-color: #F5A607;
+  }
+p {
+  padding-top: 5x;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px; 
+}
